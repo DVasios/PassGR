@@ -1,6 +1,6 @@
-# TL21-06 - PassGR
+# PassGR
 
-## Project for the Software Engineerig course, 7th Semester 2021/22
+## Project for the Software Engineerig course
 
 ### Description
 
